@@ -1,0 +1,14 @@
+*.pyc
+backup.py
+new.py
+/scripts/
+/results/
+/outputs/
+/pdbfiles/*.pdb
+/ckpts/*
+/ckpt/*
+*.jsonl
+/ckpts/HERN-*/*
+*.log
+out.jsonl
+pretrain.jsonl
